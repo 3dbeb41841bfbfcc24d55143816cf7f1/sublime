@@ -1,0 +1,24 @@
+# Fix the capitalization in the following poem and change all
+# occurrences of "BLUE" to "green"
+# Hint: Use the Edit menu to convert the text to all lower-case,
+#       then use multi-select to
+#          convert "i" to "I" where appropriate and all "sam" to "Sam"
+#          and all "blue" to "green"
+I AM SAM. I AM SAM. SAM I AM.
+THAT SAM-I-AM! THAT SAM-I-AM! I DO NOT LIKE THAT SAM-I-AM!
+DO WOULD YOU LIKE BLUE EGGS AND HAM?
+I DO NOT LIKE THEM, SAM-I-AM.
+I DO NOT LIKE BLUE EGGS AND HAM.
+WOULD YOU LIKE THEM HERE OR THERE?
+I WOULD NOT LIKE THEM HERE OR THERE.
+I WOULD NOT LIKE THEM ANYWHERE.
+I DO NOT LIKE BLUE EGGS AND HAM.
+I DO NOT LIKE THEM, SAM-I-AM.
+WOULD YOU LIKE THEM IN A HOUSE?
+WOULD YOU LIKE THEN WITH A MOUSE?
+I DO NOT LIKE THEM IN A HOUSE.
+I DO NOT LIKE THEM WITH A MOUSE.
+I DO NOT LIKE THEM HERE OR THERE.
+I DO NOT LIKE THEM ANYWHERE.
+I DO NOT LIKE BLUE EGGS AND HAM.
+I DO NOT LIKE THEM, SAM-I-AM.

@@ -1,0 +1,4 @@
+# Split the following line into 5 lines with 1 item per line
+# Do not remove any of the commas.
+# hint: use Command-D for multi-select
+'apple', 'orange', 'banana', 'mango', 'pineapple'

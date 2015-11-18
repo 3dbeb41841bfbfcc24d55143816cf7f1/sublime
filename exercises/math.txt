@@ -1,0 +1,18 @@
+# Convert the words to numbers and symbols (use Command-D for multi-select)
+# For example, the first line below should be changed to: 1 + 1 = 2
+# Hint: use multi-select
+one plus one equals two
+one plus two equals three
+one plus three equals four
+two plus three equals five
+four plus one equals five
+four minus two equals two
+four minus three equals one
+five minus three equals two
+six minus four equals two
+two times two equals four
+two times three equals six
+three times two equals six
+four divided by two equals two
+six divided by two equals three
+six divided by three equals two

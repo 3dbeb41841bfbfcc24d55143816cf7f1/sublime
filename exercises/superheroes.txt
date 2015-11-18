@@ -1,0 +1,13 @@
+# capitalize all of the names below
+# hint: use column select mode - Ctrl-Shift-Down or Alt-Drag-Down
+        and the Edit menu to convert the case
+batman
+robin
+catwoman
+joker
+superman
+spiderman
+hulk
+flash
+wolverine
+underdog
