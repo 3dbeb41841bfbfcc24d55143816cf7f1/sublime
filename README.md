@@ -11,15 +11,15 @@ Sublime editor, including how to configure it, install plugins, and get
 
 ## Core Competencies
 
-## Install Brew & Brew Cast
+## Install Brew & Brew Cask
 Brew:
 Copy and Paste into your terminal window
 #ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-Brew Cast:
+Brew Cask:
 Copy and Paste into your terminal window
 brew install caskroom/cask/brew-cask
 
-Install sublime via brew cast
+Install sublime via brew cask
 
 brew cask install sublime-text3
 
