@@ -11,6 +11,19 @@ Sublime editor, including how to configure it, install plugins, and get
 
 ## Core Competencies
 
+## Install Brew & Brew Cast
+Brew:
+Copy and Paste into your terminal window
+#ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+Brew Cast:
+Copy and Paste into your terminal window
+brew install caskroom/cask/brew-cask
+
+Install sublime via brew cast
+
+brew cask install sublime-text3
+
+
 Students will be able to:
 
 * Explain the difference between text files and binary files
