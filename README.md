@@ -1,6 +1,6 @@
 # Efficient Text Editing with Sublime
 
-*Submitted by Mike Hopper, WDI Atlanta.*
+*Submitted by Shawn A Johnson, WDI Atlanta.*
 
 The following lesson should take about `75 minutes` and includes a lab for
 the students to practice some of the powerful editing features of Sublime.
@@ -9,22 +9,7 @@ The main purpose of this lesson is to get students comfortable with the
 Sublime editor, including how to configure it, install plugins, and get
 *greedy* about discovering faster, more efficient ways of editing files.
 
-## Core Competencies
-
-## Install Brew & Brew Cast
-Brew:
-Copy and Paste into your terminal window
-#ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-Brew Cast:
-Copy and Paste into your terminal window
-    brew install caskroom/cask/brew-cask
-
-Install sublime via brew cast
-    brew tap caskroom/versions
-    brew cask install sublime-text3
-
-
-Students will be able to:
+#Students will be able to:
 
 * Explain the difference between text files and binary files
 * Installing Sublime Text 3 using brew cask
@@ -39,6 +24,29 @@ Students will be able to:
   - select and edit in "column mode"
   - move the selected line up or down
 * Use keyboard shortcuts to save time
+
+## Core Competencies
+
+## Install Brew & Brew Cast
+**Brew:**
+
+Copy and Paste into your terminal window
+
+`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
+**Brew Cast:**
+
+Copy and Paste into your terminal window
+
+    `brew install caskroom/cask/brew-cask`
+
+Install sublime via brew cast
+
+    `brew tap caskroom/versions`
+
+    `brew cask install sublime-text3`
+
+
 
 ## What is a Text Editor?
 * Provides an interface for viewing and modifying text files
@@ -88,10 +96,9 @@ Or just type `subl` in a terminal.
 To open Sublime with a specific file, we can use the command line again,
 but this time passing in a file name:
 
-```
-mkdir recipes
-subl recipes/veggie_soup.txt
-```
+
+`mkdir recipes`
+`subl recipes/veggie_soup.txt`
 
 ## Project mode
 
@@ -100,15 +107,12 @@ folders. It is handy to be able to see all the files in our project when
 working in our text editor. Sublime makes this easy as it supports a
 project mode. To use this we simply pass a directory instead of a file:
 
-```
-subl recipes
-```
+`subl recipes`
+
 or...
 
-```
-cd recipes
-subl .
-```
+`cd recipes`
+`subl .`
 
 Notice that the sidebar now has a folders section that shows all the files
 and folders in the project. Clicking on a folder expands the view to show its
@@ -144,10 +148,9 @@ few weeks).  It basically presents the settings as a series of keys and values
 - you can add keys/values, and/or modify the existing values to fit your
 personal preferences.
 
-For now, add the following:
+**For now, add the following:**
 
-```
-{
+`{
     "draw_white_space": "all",
     "ensure_newline_at_eof_on_save": true,
     "fade_fold_buttons": false,
@@ -170,12 +173,13 @@ For now, add the following:
     "trim_trailing_white_space_on_save": true,
     "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
     "word_wrap": "false"
-}
-```
+}`
+
 
 We can change the colour scheme sublime uses by going to
-`sublime text2/preferences/color scheme` and selecting one of the themes. I
-recommend "Sunburst" or "Dawn". When you select a scheme it changes all the
+`sublime text2/preferences/color scheme` 
+and selecting one of the themes. 
+I recommend  **Sunburst** or **Dawn**. When you select a scheme it changes all the
 syntax highlighting colors.
 
 ### Packages
@@ -188,14 +192,18 @@ you.
 
 In short, Sublime is highly customisable, you can play around by editing your
 user settings and by installing plugins. We will do this using
-*Package Control*.
+**Package Control**.
 
-Follow the instructions at https://packagecontrol.io/installation#st3
+Follow the instructions at 
+
+`https://packagecontrol.io/installation#st3`
+
 to install *Package Control*. Note that there is a difference in the
 instructions between ST2 and ST3.
 
 Now we will use *Package Control* to install the *Advanced New File* plugin.
-See [Sublime Advanced New File](https://github.com/skuroda/Sublime-AdvancedNewFile)
+See [Sublime Advanced New File]
+(https://github.com/skuroda/Sublime-AdvancedNewFile)
 
 Now test out the plugin by creating a new file:
 
@@ -207,12 +215,11 @@ Now test out the plugin by creating a new file:
 In this code along we will create some files via the command line and then
 edit them in Sublime.
 
-```bash
+`bash
 cd ~
 cd wdi
 git clone <student_repo>
-cd labs/editor-practice
-```
+cd labs/editor-practice`
 
 Follow the instructions that start with a `#` sign to make modifications
 to the text in the following files.
@@ -227,3 +234,4 @@ to the text in the following files.
 * [Efficiency With Sublime Text](http://thunderboltlabs.com/blog/2013/11/19/efficiency-with-sublime-text-and-ruby/)
 * [Sublime Text Keyboard Shortcuts](http://www.wdtutorials.com/2013/06/23/sublime-text-keyboard-shortcuts-cheat-sheet-win-os-x-and-linux#.VT2F161Viko)
 * [Sublime Practice](https://www.shortcutfoo.com/app/dojos/sublime-text-2-mac)
+* [Sublime Youtube videos](https://www.youtube.com/playlist?list=PLLnpHn493BHEYF4EX3sAhVG2rTqCvLnsP)
