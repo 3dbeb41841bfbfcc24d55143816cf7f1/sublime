@@ -177,8 +177,8 @@ personal preferences.
 
 
 We can change the colour scheme sublime uses by going to
-`sublime text2/preferences/color scheme` 
-and selecting one of the themes. 
+`sublime text2/preferences/color scheme`
+and selecting one of the themes.
 I recommend  **Sunburst** or **Dawn**. When you select a scheme it changes all the
 syntax highlighting colors.
 
@@ -194,7 +194,7 @@ In short, Sublime is highly customisable, you can play around by editing your
 user settings and by installing plugins. We will do this using
 **Package Control**.
 
-Follow the instructions at 
+Follow the instructions at
 
 `https://packagecontrol.io/installation#st3`
 
@@ -218,8 +218,8 @@ edit them in Sublime.
 `bash
 cd ~
 cd wdi
-git clone <student_repo>
-cd labs/editor-practice`
+git clone https://github.com/ATL-WDI-Curriculum/sublime.git,
+then cd  into sublime/exercises`
 
 Follow the instructions that start with a `#` sign to make modifications
 to the text in the following files.
