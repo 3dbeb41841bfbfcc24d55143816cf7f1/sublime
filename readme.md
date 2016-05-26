@@ -30,24 +30,20 @@ Students will be able to:
 * Use keyboard shortcuts to save time
 
 
-## Install Brew & Brew Cast
+## Install Brew & Brew Cask
 **Brew:**
 
 Copy and Paste into your terminal window
 
     ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-**Brew Cast:**
+**Brew Cask:**
 
-Copy and Paste into your terminal window
+Install Sublime 3 via brew cask
 
-    brew install caskroom/cask/brew-cask
-
-Install sublime via brew cast
-
+    brew tap caskroom/cask
     brew tap caskroom/versions
     brew cask install sublime-text3
-
 
 
 ## What is a Text Editor?
