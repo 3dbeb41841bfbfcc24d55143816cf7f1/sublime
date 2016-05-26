@@ -9,6 +9,8 @@ The main purpose of this lesson is to get students comfortable with the
 Sublime editor, including how to configure it, install plugins, and get
 *greedy* about discovering faster, more efficient ways of editing files.
 
+TAGS=[sublime, editor, tools]
+
 ## Core Competencies
 
 ## Install Brew & Brew Cast
