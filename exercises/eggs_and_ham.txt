@@ -2,7 +2,7 @@
 # occurrences of "BLUE" to "green"
 # Hint: Use the Edit menu to convert the text to all lower-case,
 #       then use multi-select to
-#          convert "i" to "I" where appropriate and all "sam" to "Sam"
+#          convert "i" to "I" where appropriate and all "sam" to "Sam"  ` Command+Ctrl+G (Mac OS X)`
 #          and all "blue" to "green"
 I AM SAM. I AM SAM. SAM I AM.
 THAT SAM-I-AM! THAT SAM-I-AM! I DO NOT LIKE THAT SAM-I-AM!
