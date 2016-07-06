@@ -150,7 +150,7 @@ few weeks).  It basically presents the settings as a series of keys and values
 - you can add keys/values, and/or modify the existing values to fit your
 personal preferences.
 
-For now, add the following:
+**For now, add the following:**
 
 ```json
 {
@@ -179,21 +179,13 @@ For now, add the following:
 }
 ```
 
-We can change the colour scheme sublime uses by going to
-`sublime text2/preferences/color scheme` and selecting one of the themes.
-I recommend **Sunburst** or **Dawn**.
-When you select a scheme it changes all of the syntax highlighting colors.
+We can change the colour scheme sublime uses by going to `preferences/color scheme` and selecting one of the themes. I recommend **Sunburst** or **Dawn**. When you select a scheme it changes all of the syntax highlighting colors.
 
 ### Packages
 
-Sublime works with a lot of plugins, and we will install new plugins almost
-every week. Before, you had to download the package manually and add it to
-Sublime's plugins folder. Now there is a package manager for Sublime, which
-works a bit like brew; you ask for a package and sublime will install it for
-you.
+Sublime works with a lot of plugins, and we will install new plugins almost every week. Before, you had to download the package manually and add it to Sublime's plugins folder. Now there is a package manager for Sublime, which works a bit like brew; you ask for a package and sublime will install it for you.
 
-In short, Sublime is highly customisable, you can play around by editing your
-user settings and by installing plugins. We will do this using *Package Control*.
+In short, Sublime is highly customisable, you can play around by editing your user settings and by installing plugins. We will do this using *Package Control*.
 
 Follow the instructions [here](https://packagecontrol.io/installation#st3) to install *Package Control*.
 Note that there is a difference in the instructions between ST2 and ST3.
@@ -206,7 +198,6 @@ See [Sublime Advanced New File](https://github.com/skuroda/Sublime-AdvancedNewFi
 Now test out the plugin by creating a new file:
 
 * Create a New File (AdvancedNewFile plugin):   `Alt-Command-N`
-
 
 ## Code Along
 
