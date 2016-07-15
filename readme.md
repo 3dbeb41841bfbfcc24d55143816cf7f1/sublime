@@ -42,7 +42,7 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 ```bash
 brew tap caskroom/cask
 brew tap caskroom/versions
-brew cask install sublime-text3
+brew cask install sublime-text
 ```
 
 
@@ -207,7 +207,7 @@ edit them in Sublime.
 ```bash
 cd ~
 cd wdi
-git clone https://github.com/ATL-WDI-Curriculum/sublime.git,
+git clone https://github.com/ATL-WDI-Curriculum/sublime.git
 cd sublime/exercises
 ```
 
