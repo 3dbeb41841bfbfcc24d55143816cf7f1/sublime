@@ -29,6 +29,8 @@ Students will be able to:
   - move the selected line up or down
 * Use keyboard shortcuts to save time
 
+![VI or Sublime](to-vi-or-not-to-vi.png)
+
 ## Install Brew
 
 Copy and Paste into your terminal window:
