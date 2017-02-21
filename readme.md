@@ -226,5 +226,5 @@ to the text in the following files.
 * [Efficiency With Sublime Text](http://thunderboltlabs.com/blog/2013/11/19/efficiency-with-sublime-text-and-ruby/)
 * [Scotch.io Tutorials](https://scotch.io/tag/sublime-text)
 * [Sublime Text Keyboard Shortcuts](http://www.wdtutorials.com/2013/06/23/sublime-text-keyboard-shortcuts-cheat-sheet-win-os-x-and-linux#.VT2F161Viko)
-* [Sublime Practice](https://www.shortcutfoo.com/app/dojos/sublime-text-2-mac)
+* [Sublime Practice](https://www.shortcutfoo.com/app/dojos/sublime-text-3-mac)
 * [Sublime Youtube videos](https://www.youtube.com/playlist?list=PLLnpHn493BHEYF4EX3sAhVG2rTqCvLnsP)
