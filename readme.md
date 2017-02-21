@@ -181,7 +181,7 @@ personal preferences.
 }
 ```
 
-We can change the colour scheme sublime uses by going to `preferences/color scheme` and selecting one of the themes. I recommend **Sunburst** or **Dawn**. When you select a scheme it changes all of the syntax highlighting colors.
+We can change the colour scheme sublime uses by going to `preferences/color scheme` and selecting one of the themes. I recommend **Monokai** or **Dawn**. When you select a scheme it changes all of the syntax highlighting colors.
 
 ### Packages
 
